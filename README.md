@@ -26,4 +26,4 @@
 
 "DefaultConnection" указать параметры подключения к БД
 
-
+Настоить запуск с docker-compose
